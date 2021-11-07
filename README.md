@@ -14,7 +14,7 @@ A dataset of phishing kits in the wild.
 
 ## Notable findings
 
-### Postal/transfer services are favorite targets
+### Postal/transport services are favorite targets
 
 Probably because of the pandemic, postal/transport services are favorite targets of threat actors nowadays.
 
@@ -24,7 +24,7 @@ Probably because of the pandemic, postal/transport services are favorite targets
 ![img](https://urlscan.io/screenshots/f7504036-b2b5-4a9b-9c45-9cadff14cb57.png)
 ![img](https://urlscan.io/screenshots/ab825968-a028-4c2f-8fbc-58acba4c4035.png)
 
-### (Vulnerable) WordPress is an mark
+### (Vulnerable) WordPress is an easy mark
 
 **15%** of phishing kits are deployed in WordPress websites.
 
